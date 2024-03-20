@@ -1,0 +1,3 @@
+pyiceberg[glue,sql-sqlite]
+getdaft
+jupyterlab
