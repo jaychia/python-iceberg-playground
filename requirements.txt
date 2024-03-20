@@ -1,3 +1,4 @@
 pyiceberg[glue,sql-sqlite]
-getdaft
+getdaft[ray]
 jupyterlab
+ipywidgets
